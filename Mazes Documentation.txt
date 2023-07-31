@@ -1,0 +1,6 @@
+How to play the Maze game:
+
+1. Run the program with a given x and y size (number of cells) to begin
+2. press "b" or "d" to run a breadth-first or depth-first solution, respectively
+3. press "h" or "v" to reset the game with a horizontal or vertical edge weight prioritization
+4. press "r" to reset to a new maze
